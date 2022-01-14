@@ -2,28 +2,29 @@
 ![midian](https://user-images.githubusercontent.com/19355492/149541404-ef0bf6eb-e2ee-42ba-8afd-02aa5371f1c4.jpg)
 2. MEMBUAT INSERT DATA DAN DELETE DI MASING-MASING TABEL MASTER
 - insert master data mahasiswa
-![image](https://user-images.githubusercontent.com/19355492/149541577-9302aaf0-27fc-4502-9bb5-ef8ef0cff1ba.png)
-![image](https://user-images.githubusercontent.com/19355492/149541779-ce72ddc9-bf56-4ea8-9304-6e2fe04154bd.png)
+![image](https://user-images.githubusercontent.com/19355492/149543224-ca6f06f8-4b5a-49a9-83b1-8e6b8a302678.png)
+![image](https://user-images.githubusercontent.com/19355492/149543303-11708c1b-8897-4fda-9d91-b7219459a14c.png)
 - menghapus data mahasiswa
-![image](https://user-images.githubusercontent.com/19355492/149541855-f434bdbb-db28-4328-b140-a2f2c16c3233.png)
-![image](https://user-images.githubusercontent.com/19355492/149541863-e12cb217-b24f-4b26-8af8-a43e860c88bd.png)
+![image](https://user-images.githubusercontent.com/19355492/149543384-1ccfc065-d306-4194-ab9a-05c0f65bd6b6.png)
+![image](https://user-images.githubusercontent.com/19355492/149543406-cc38858b-54a9-4ca1-af8e-bde9f35633cb.png)
 - insert data matkul
-![image](https://user-images.githubusercontent.com/19355492/149542192-b9c9b1fe-1fa0-4795-82ce-2b7666e56132.png)
-![image](https://user-images.githubusercontent.com/19355492/149542221-fb1a9efa-81eb-493d-991d-c4286681ff0d.png)
+![image](https://user-images.githubusercontent.com/19355492/149543512-3dd3ce0a-b6fc-4cca-9df2-10ce0e11a7cf.png)
+![image](https://user-images.githubusercontent.com/19355492/149543549-74264eb2-7790-4ac6-a705-e81b04059f21.png)
 - mendelte data matkul
-![image](https://user-images.githubusercontent.com/19355492/149542273-56d85957-3175-47cd-821f-47ce3780b386.png)
-![image](https://user-images.githubusercontent.com/19355492/149542304-b5dfd51e-007a-4d98-b7f3-2393177a1cc8.png)
+![image](https://user-images.githubusercontent.com/19355492/149543595-23c88003-2b30-423c-9407-9b548268426d.png)
+![image](https://user-images.githubusercontent.com/19355492/149543628-001dc011-5fff-4c63-97fc-e14aeeb2a213.png)
 - insert data ruang
-![image](https://user-images.githubusercontent.com/19355492/149542434-ca0d8f26-8366-4104-8fe1-66ab08072068.png)
-![image](https://user-images.githubusercontent.com/19355492/149542454-ac5d6405-7add-43e4-ac36-b7b07f52e404.png)
+![image](https://user-images.githubusercontent.com/19355492/149543706-7bd0b010-b647-4a0d-be1c-d7282d460a59.png)
+![image](https://user-images.githubusercontent.com/19355492/149543756-27d739ce-1bed-4912-bd0b-61687d2f14d5.png)
 - delete data ruang
-![image](https://user-images.githubusercontent.com/19355492/149542535-965ca365-8d41-4adb-b9cd-af742d9cb147.png)
-![image](https://user-images.githubusercontent.com/19355492/149542644-b39e2334-0cde-47e9-98bd-b37fd3ca75a6.png)
+![image](https://user-images.githubusercontent.com/19355492/149543837-e8c70f92-9a65-4dbc-b6bd-b8b1ce15d1a7.png)
+![image](https://user-images.githubusercontent.com/19355492/149543860-f417e52d-8b61-4971-9adf-c4bc62b4ce1f.png)
 - insert data dosen
-![image](https://user-images.githubusercontent.com/19355492/149542768-292fa058-6f94-45b5-93ec-86e39885ec0b.png)
-![image](https://user-images.githubusercontent.com/19355492/149542794-625255d3-7403-46f3-bb89-5bc26c9359df.png)
+![image](https://user-images.githubusercontent.com/19355492/149544026-17a78ac8-bfc5-4ca2-bdb8-690301724d18.png)
+![image](https://user-images.githubusercontent.com/19355492/149544068-9273ecb2-f5fd-40e6-a0f5-cb39ed72fcc6.png)
 - delete data dosen
-![image](https://user-images.githubusercontent.com/19355492/149542868-f63502b7-0750-4976-8778-e71f5ba3ef28.png)
-![image](https://user-images.githubusercontent.com/19355492/149542893-f96259d8-23b5-4591-9f4a-599609738a99.png)
+![image](https://user-images.githubusercontent.com/19355492/149544154-ac0bd114-32fe-40b7-82d7-66dfafc69d19.png)
+![image](https://user-images.githubusercontent.com/19355492/149544187-b1088e82-5a61-4aa6-a650-5d2b88c3dc49.png)
+
 
 
